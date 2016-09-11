@@ -1,0 +1,3 @@
+To add a file to git repo:
+1. cd to local git workspace/repo
+2. git add <filename>
